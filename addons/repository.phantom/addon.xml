@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="repository.phantom" name="Phantom Repository" version="1.0.0" provider-name="Maguinho">
+
+	<extension point="xbmc.addon.repository" name="Phantom Addon Repository">
+
+		<info compressed="false">https://phantomtv.googlecode.com/svn/xbmcph/Xpert/addons/addons.xml</info>
+
+		<checksum>https://phantomtv.googlecode.com/svn/xbmcph/Xpert/addons/addons.xml.md5</checksum>
+
+		<datadir zip="true">https://phantomtv.googlecode.com/svn/xbmcph/Xpert/addons/repository.phantom</datadir>
+
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+
+		<summary>The Best Third Party Addons for XBMC, Brought to you by Maguinho</summary>
+
+		<description>The Best Third Party Addons for XBMC, Brought to you by Maguinho</description>
+
+		<platform>all</platform>
+
+                <forum></forum>
+
+                <website></website>
+
+	</extension>
+
+</addon>
+
+

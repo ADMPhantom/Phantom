@@ -1,0 +1,8 @@
+v1.0.2
+Release Installer
+
+v1.0.1
+Feels Better
+
+v1.0
+Initial Release

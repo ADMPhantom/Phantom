@@ -1,0 +1,9 @@
+name="Ace"
+skins="skin.ace.zip"
+desc="AeonNoxs' smaller brother, created by the Talented Marcos Qui author of Aeon MQ. Small,lightweight and packs a punch. If you want all the style of Aeon nox on a tight ram budget. Your search has ended."
+
+name="Phantom_install"
+skins="Phantom.zip"
+desc="Phantom created by the Talented Maguinho."
+
+common="common.zip"

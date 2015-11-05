@@ -1,0 +1,69 @@
+name="Phantom"
+url="https://phantomxbmc.googlecode.com/svn/Phantom.zip"
+img="http://img822.imageshack.us/img822/6190/pgbv.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="MAC"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img18.imageshack.us/img18/3623/clk6.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="WINDOWS"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img513.imageshack.us/img513/5797/vgpw.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="OUYA"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img837.imageshack.us/img837/6648/dr2z.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="ANDROID"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img6.imageshack.us/img6/3527/u2vi.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="iDEVICES"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img11.imageshack.us/img11/7562/qiui.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="ATV"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img15.imageshack.us/img15/8389/o5vr.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="PIVOS"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img600.imageshack.us/img600/5481/ftgj.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="LINUX"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img46.imageshack.us/img46/8449/3uli.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
+
+name="TLBB"
+url="http://download1650.mediafire.com/iobnku4ca4eg/zhs0wh27h3e2mx7/XBMC.zip"
+img="http://img703.imageshack.us/img703/1504/vw1p.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"

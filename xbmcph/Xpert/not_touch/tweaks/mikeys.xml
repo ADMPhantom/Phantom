@@ -1,0 +1,14 @@
+<!-- mikey -->
+<advancedsettings>
+    <network>
+        <cachemembuffersize>34603008</cachemembuffersize>
+        <curlclienttimeout>45</curlclienttimeout>
+    </network>
+    <gui>    
+        <algorithmdirtyregions>3</algorithmdirtyregions>
+        <nofliptimeout>0</nofliptimeout>
+    </gui>
+    <videoscanner>
+        <ignoreerrors>true</ignoreerrors>
+    </videoscanner>
+</advancedsettings>

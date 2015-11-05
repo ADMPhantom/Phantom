@@ -1,0 +1,7 @@
+name="Phantom"
+url="http://phantom2.googlecode.com/svn/XBMC.zip"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+
+common="common.zip"

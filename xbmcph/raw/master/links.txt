@@ -1,0 +1,87 @@
+name="WARNING"
+url="http://phantomtv.googlecode.com/svn/wizard.txt"
+img="http://s8.postimg.org/72imnyy6t/warning.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="splash"
+
+name="MAC"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s28.postimg.org/53710116l/mac.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="WINDOWS"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s10.postimg.org/d9p1w3ik9/windows.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="FIRETV"
+url="https://phantom2.googlecode.com/svn/XBMC_firetv.zip"
+img="http://s3.postimg.org/dku6vza0z/firetv.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="OUYA"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s2.postimg.org/im4e48e15/ouya.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="ANDROID"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s28.postimg.org/c0o699ge5/android.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="iDEVICES"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s14.postimg.org/66qf1j129/idevices.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="ATV"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s9.postimg.org/7u3h4gdxr/appletv.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="MATRICOM"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s8.postimg.org/qmes7s591/matricom.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="PIVOS"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s12.postimg.org/dg6vtj5al/pivos.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="LINUX"
+url="https://phantom2.googlecode.com/svn/XBMC.zip"
+img="http://s28.postimg.org/mmqf48g8t/linux.jpg"
+fanart="http://s21.postimg.org/to1c0gwzb/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
+type="main"

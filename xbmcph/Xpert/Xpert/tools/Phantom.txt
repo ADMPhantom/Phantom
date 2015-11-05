@@ -1,0 +1,11 @@
+plugin="HomeVideosButton1,plugin.video.tvpor"
+plugin="HomeVideosButton2,plugin.video.phstreams"
+plugin="HomeVideosButton3,plugin.video.1channel"
+plugin="HomeVideosButton4,plugin.video.movie25"
+plugin="HomeVideosButton5,plugin.video.youtube"
+plugin="HomeVideosButton6,plugin.video.moviekingdom"
+plugin="HomeVideosButton7,plugin.video.videolister"
+plugin="HomeMusicButton1,plugin.video.MikeysKaraoke"
+plugin="HomeMusicButton2,plugin.audio.tuneinradio"
+plugin="HomeProgramButton1,script.navi-x"
+

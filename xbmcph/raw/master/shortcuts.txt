@@ -1,0 +1,8 @@
+shortcut="HomeVideosButton1,plugin.video.tvpor"
+shortcut="HomeVideosButton2,plugin.video.phstreams"
+shortcut="HomeVideosButton3,plugin.video.1channel"
+shortcut="HomeVideosButton4,plugin.video.genesis"
+shortcut="HomeVideosButton5,plugin.video.youtube"
+shortcut="HomeMusicButton1,plugin.video.MikeysKaraoke"
+shortcut="HomeMusicButton2,plugin.audio.tuneinradio"
+shortcut="HomeProgramButton1,script.navi-x"
